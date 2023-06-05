@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gurushanth1
 - 👀 I’m interested in React,Node,NextJs,REST APIs.
 - 🌱 I’m currently learning Data structures and Algorithms in JavaScript and interested in learining Backend Architecture and Design Patterns
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with a team on cloud architectures
 - 📫 How to reach me .. mail me @ gurushanthoffical@gmail.com ;D
 
 <!---
